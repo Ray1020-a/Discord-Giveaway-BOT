@@ -19,7 +19,7 @@ async def gift(ctx):
             await ctx.send('請您確保在30秒內回答問題，已超出時間請重試')
         else:
             giveaway_gift = (message.content)
-            await ctx.send('你想要在什麼時候公布中獎者？ 格式YYYY/MM/DD HH:MM:SS)')
+            await ctx.send('你想要在什麼時候公布中獎者？ 格式YYYY/MM/DD HH:MM:SS')
             def check(m):
                 return m.author == ctx.author and m.channel == ctx.channel
             try:
