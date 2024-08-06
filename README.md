@@ -1,5 +1,4 @@
 # Discord-Giveaway-BOT
-# Ray叡的Discord抽獎機器人-開源
 ---
 
 ![image](https://github.com/Ray1020-a/Discord-Giveaway-BOT/blob/main/img/1.png)
