@@ -1,8 +1,10 @@
 # Discord-Giveaway-BOT
 # Ray叡的Discord抽獎機器人-開源
 ---
+
 ![image](https://github.com/Ray1020-a/Discord-Giveaway-BOT/blob/main/img/1.png)
 - !gift通用!g 開始進行抽獎設定
+
 ![image](https://github.com/Ray1020-a/Discord-Giveaway-BOT/blob/main/img/2.png)
 - 中獎後會傳私訊通知中獎者
 
